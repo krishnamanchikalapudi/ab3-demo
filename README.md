@@ -90,3 +90,6 @@ AWS_REGION=$(aws configure get region) && echo "AWS Region: $AWS_REGION"
 - [Git on the command line](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html)
 - [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 - [Git emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrishnamanchikalapudi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/krishnamanchikalapudi)
